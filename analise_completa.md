@@ -685,7 +685,7 @@ GROUP BY
 
 ### Imposição de limite geográfico nas entregas
 
-Restringir o raio de operação a um máximo de 2 km pode reduzir drasticamente os custos logísticos, uma vez que entregas acima dessa faixa geram prejuízos superiores a R$800 por unidade.
+Restringir o raio de operação a uma distância máxima pode reduzir significativamente os custos logísticos, já que entregas longas acentuam o principal fator de prejuízo: o custo de entrega.
 
 ### Revisão da política de frete
 
