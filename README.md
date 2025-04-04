@@ -57,6 +57,7 @@ A análise foi estruturada em duas partes principais:
 
 Com base nas análises, as principais recomendações incluem:
 
+- Limitar a distância das entregas poderia ajudar a reduzir os custos logísticos
 - Revisar a política de frete, considerando repassar total ou parcialmente o custo ao consumidor
 - Incentivar meios de pagamento com menores taxas (PIX, dinheiro)
 - Priorizar o segmento FOOD, com possível reavaliação da operação no segmento GOOD
