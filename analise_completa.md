@@ -1,4 +1,4 @@
-## Limitações da Amostra de Dados
+# Limitações da Amostra de Dados
 
 É importante considerar algumas limitações que esta amostra de dados apresenta:
 
