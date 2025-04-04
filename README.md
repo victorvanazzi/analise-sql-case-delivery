@@ -6,6 +6,7 @@
 
 # Análise de Rentabilidade e Eficiência Logística com SQL — Delivery Center
 
+<img src="https://github.com/user-attachments/assets/669a3200-ff27-46c6-9eea-61d25de4a4d5" width="400"/>
 
 ## 🧭 Visão Geral do Projeto
 
@@ -68,7 +69,9 @@ Com base nas análises, as principais recomendações incluem:
 ## 📁 Estrutura do Repositório
 
 - `README.md` → Visão geral do projeto
+- `dicionario_dados.md` → Dicionário de dados com descrição das tabelas e colunas
+- `analise_completa.md` → Documento com todas as análises detalhadas
 - `sql_queries/` → Scripts SQL utilizados nas análises
 - `resultados/` → Tabelas e prints dos resultados
-- `analise_completa.md` → Documento com todas as análises detalhadas
-- `dados/` → Dados originais (ou amostras, se públicos)
+- `img/` → Imagens utilizadas no README
+- `dados/` → Dados originais 
