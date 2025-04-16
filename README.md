@@ -8,13 +8,13 @@
 
 <img src="https://github.com/user-attachments/assets/669a3200-ff27-46c6-9eea-61d25de4a4d5" width="400"/>
 
-## 🧭 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Este projeto consiste em uma análise aprofundada da operação logística e rentabilidade do Delivery Center, uma plataforma brasileira de entregas, durante o período de janeiro a abril de 2021. Utilizando SQL com MySQL através do DBeaver, examinei um conjunto de dados públicos disponível no Kaggle para identificar gargalos operacionais, avaliar desempenho financeiro e propor soluções para os problemas encontrados.
 
 
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - SQL (MySQL)
 - DBeaver (ambiente de execução)
@@ -24,7 +24,7 @@ Este projeto consiste em uma análise aprofundada da operação logística e ren
 
 
 
-## 🎯 Objetivos
+## Objetivos
 
 - Analisar o ciclo operacional dos pedidos e identificar possíveis gargalos
 - Avaliar a performance dos diferentes hubs e segmentos de lojas
@@ -33,7 +33,7 @@ Este projeto consiste em uma análise aprofundada da operação logística e ren
 
 
 
-## 🧪 Metodologia
+## Metodologia
 
 A análise foi estruturada em duas partes principais:
 
@@ -42,7 +42,7 @@ A análise foi estruturada em duas partes principais:
 
 
 
-## 📌 Principais Descobertas
+## Principais Descobertas
 
 - O modelo de negócios apresenta um problema estrutural de rentabilidade, com margem bruta média altamente negativa (–R$566)
 - O custo logístico é o principal fator de prejuízo, especialmente em entregas com mais de 3km
@@ -53,7 +53,7 @@ A análise foi estruturada em duas partes principais:
 
 
 
-## 🧩 Recomendações
+## Recomendações
 
 Com base nas análises, as principais recomendações incluem:
 
@@ -66,7 +66,7 @@ Com base nas análises, as principais recomendações incluem:
 
 
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 - `README.md` → Visão geral do projeto
 - `dicionario_dados.md` → Dicionário de dados com descrição das tabelas e colunas
